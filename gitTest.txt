@@ -3,3 +3,5 @@
 2) just added this to the second line
 
 3) third line added only
+
+4) this is to test out merges.
