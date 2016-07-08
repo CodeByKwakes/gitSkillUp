@@ -1,3 +1,5 @@
 1) This is a test for GIT
 
 2) just added this to the second line
+
+3) third line added only
