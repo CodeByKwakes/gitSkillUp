@@ -1,6 +1,6 @@
 1) This is a test for Git
 
-2) just added this to the second line
+2) This is the Real SECOND lINE!!
 
 3) third line added only
 
