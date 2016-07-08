@@ -1,6 +1,7 @@
 1) This is a test for Git
 
-2) this is the second line
+2) This is the Real SECOND lINE!!
+>>>>>>> first
 
 3) third line added only
 
